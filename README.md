@@ -1,3 +1,3 @@
 # SIP-Calculator
 
-Live View: https://vercel.com/drashti271s-projects/sip-calculator
+Live View: https://sip-calculator-beige.vercel.app/
